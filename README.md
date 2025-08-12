@@ -6,7 +6,7 @@
 
 - 📖I like to read classics of *Russian literature*. Favorite writers are **Pushkin, Bulgakov, Dostoevsky**.
 - 🎼I play musical instruments: *accordion, piano, guitar*. **Mostly accordion**😉.
-- 💪I am engaged in *workout*. This is one of the branches in the sport of **workout**.
+- 💪I am engaged in *workout*.
 
 ## Languages that I know and have projects with:
 
