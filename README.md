@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, friends!👋
 
-<!--
-**Vorobevm2007/Vorobevm2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" height="300"></p>
 
-Here are some ideas to get you started:
+## A little about myself😁🙂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖I like to read classics of *Russian literature*. Favorite writers are **Pushkin, Bulgakov, Dostoevsky**.
+- 🎼I play musical instruments: *accordion, piano, guitar*. **Mostly accordion**😉.
+- 💪I am engaged in *calisthenis*. This is one of the branches in the sport of **workout**.
+
+## Languages that I know and have projects with:
+
+<p align="center"><img src="https://app-android.ru/images/blog-block/programmirovanie-na-c/2.png" width="600" height="200"></p>
+
+ I will be glad if you subscribe to my profile😊 and to this [(IT)](https://t.me/marveyPal) Telegram channel.
