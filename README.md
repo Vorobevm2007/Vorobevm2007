@@ -8,7 +8,7 @@
 - 🎼I play musical instruments: *accordion, piano, guitar*. **Mostly accordion**😉.
 - 💪I am engaged in *workout*.
 
-## Languages that I know and have projects with:
+## Languages that I know and with which projects will be released in the future:
 
 <p align="center"><img src="https://app-android.ru/images/blog-block/programmirovanie-na-c/2.png" width="600" height="200"></p>
 
